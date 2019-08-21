@@ -1,0 +1,1 @@
+{"version":3,"sources":["settings/colors.scss","main.scss"],"names":[],"mappings":"AAAA,WAAA;ACEA;EACI,eDDgB;ECEhB,WDHa,EAAA","file":"main.min.css","sourcesContent":["/* Colors */\r\n$font-color: #000;\r\n$font-paragraf: 16px;\r\n","@import 'settings/colors.scss';\r\n\r\nbody {\r\n    font-size: $font-paragraf;\r\n    color: $font-color;\r\n}"]}
